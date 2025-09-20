@@ -1,4 +1,4 @@
-**# About Me:
+# About Me:
 🚀 Hi! I'm **Mark Ian Bustillo**, a 3rd-year **IT student** at Quezon City University, Philippines.  <br><br>💡 I enjoy building interactive and scalable web applications, solving problems with code, and exploring new web technologies.  <br>🌱 Currently learning **Next.js** and expanding my skills in **Full Stack Development**.<br>
 
 
