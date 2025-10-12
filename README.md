@@ -54,4 +54,6 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 ## 📊 GitHub Stats:
-<img src="https://nirzak-streak-stats.vercel.app/?user=mark-ianz&theme=dark&hide_border=false" /></td>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mark-ianz&theme=dark&hide_border=false" width="100%"/>
+</p>
