@@ -1,6 +1,7 @@
 # About Me:
 🚀 Hi! I'm **Mark Ian Bustillo**, a 3rd-year **IT student** at Quezon City University, Philippines.  <br><br>💡 I enjoy building interactive and scalable web applications, solving problems with code, and exploring new web technologies.  <br>🌱 Currently learning **Next.js** and expanding my skills in **Full Stack Development**.<br>
 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bustillomarkian23@gmail.com) 
@@ -8,8 +9,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ih.yvnn)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i.yvnn/)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
-
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
 ## 💻 Tech Stack
 
