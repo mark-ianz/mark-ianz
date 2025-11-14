@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i.yvnn/)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
 ## 💻 Tech Stack
 
