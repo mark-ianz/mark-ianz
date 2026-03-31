@@ -55,5 +55,5 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mark-ianz&theme=dark&hide_border=false" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=mark-ianz&theme=highcontrast&hide_border=false&border_radius=4.5&mode=daily&exclude_days=&disable_animations=false&card_width=1000&card_height=195&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" width="100%"/>
 </p>
