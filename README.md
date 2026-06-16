@@ -1,12 +1,14 @@
 # Hi there, I'm Mark Ian Bustillo! 👋
 
-🎓 Incoming 4th-year **Information Technology** student at **Quezon City University**, Philippines — and I've been building things with code since the summer of 2023.
+🎓 Incoming 4th-year **Information Technology** student at **Quezon City University**, Philippines — 3 years of experience!
 
-💡 I love crafting interactive, scalable web applications and diving deep into new technologies. At university, I consistently serve as the **lead developer** for every team project — from system design to deployment.
+💡 I love crafting interactive, scalable web applications and diving deep into new technologies.
 
 🌱 Currently expanding into **Agentic Coding**, **AI-powered systems**, and deepening my full-stack expertise across modern frameworks and architectures.
 
 ---
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
 ### 🌐 Connect with Me
 
@@ -14,7 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-ian-bustillo)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ih.yvnn)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
 ---
 
