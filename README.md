@@ -4,7 +4,7 @@ I'm a 4th-year IT student from Quezon City University, and I like building full-
 
 Most of my work is around **TypeScript, Node.js, Next.js, RESTful APIs, and Databases**.
 
-Actively expanding my knowledge about **AI-assisted development, agentic coding, system design, and building better backend systems.**
+Actively expanding my knowledge about **agentic coding, system design and architecture, and building better backend systems.**
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
