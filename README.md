@@ -1,95 +1,88 @@
-# Hi there, I'm Mark Ian Bustillo! 👋
+# Hey, I'm Mark Ian !
 
-🎓 Incoming 4th-year **Information Technology** student at **Quezon City University**, Philippines — 3 years of experience!
+I'm a 4th-year IT student from Quezon City University, and I like building full-stack web applications.
 
-💡 I love crafting interactive, scalable web applications and diving deep into new technologies.
+Most of my work is around **TypeScript, Node.js, Next.js, RESTful APIs, and Databases**.
 
-🌱 Currently expanding into **Agentic Coding**, **AI-powered systems**, and deepening my full-stack expertise across modern frameworks and architectures.
-
----
+Actively expanding my knowledge about **AI-assisted development, agentic coding, system design, and building better backend systems.**
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
-### 🌐 Connect with Me
+### Find me here
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bustillomarkian23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-ian-bustillo)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ih.yvnn)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
-
----
-
-## 💻 Tech Stack
-
-### 🗣️ Languages
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### ⚙️ Frameworks & Libraries
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logoColor=white&logo=shadcn/ui)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-153355?style=for-the-badge&logo=react%20query&logoColor=FF4154)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-
-### 🗄️ Databases & ORMs
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🔌 APIs & Architecture
-
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![axios](https://img.shields.io/badge/axios-346be1?logo=axios&style=for-the-badge)
-
-### 🛠️ Tools & Dev Environment
-
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman)
-![HTTPie](https://img.shields.io/badge/HTTPie-grey?style=for-the-badge&logo=httpie)
-
-### ☁️ Cloud & Media
-
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 📱 No-Code / Low-Code
-
-![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-E05C2B?style=for-the-badge&logo=mit&logoColor=white)
-
-### 🎨 Design & UI Tools
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+[![Email](https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white)](mailto:bustillomarkian23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-ian-bustillo)
+[![Facebook](https://img.shields.io/badge/facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/ih.yvnn)
+[![Monkeytype](https://img.shields.io/badge/monkeytype-333333?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/markian)
 
 ---
 
-## 📊 GitHub Stats
+### Stuff I use
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-CA4245?logo=reactrouter&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/tanstack_query-FF4154?logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/socket.io-010101?logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/rest_api-000000?logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-000000?logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-3E67B1?logo=zod&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-880000?logo=mongoose&logoColor=white)
+
+**Cloud / Deployment**
+
+![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoftazure&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/render-46E3B7?logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-000000?logo=netlify&logoColor=00C7B7)
+![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
+![HTTPie](https://img.shields.io/badge/httpie-73DC8C?logo=httpie&logoColor=black)
+
+**Other**
+
+![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?logo=tensorflow&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-B4CA65?logo=ejs&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white)
+
+---
+
+### GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mark-ianz&theme=highcontrast&hide_border=false&border_radius=4.5&mode=daily&exclude_days=&disable_animations=false&card_width=1000&card_height=195&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" width="100%"/>
 </p>
+
+---
