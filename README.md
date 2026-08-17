@@ -28,7 +28,7 @@ Actively expanding my knowledge about **AI-assisted development, agentic coding,
 ![HTML5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white)
 
-**Frontend**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?logo=next.js&logoColor=white)
@@ -36,25 +36,18 @@ Actively expanding my knowledge about **AI-assisted development, agentic coding,
 ![TanStack Query](https://img.shields.io/badge/tanstack_query-FF4154?logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
-
-**Backend**
-
 ![Node.js](https://img.shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/socket.io-010101?logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/rest_api-000000?logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/jwt-000000?logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-3E67B1?logo=zod&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?logo=tensorflow&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-B4CA65?logo=ejs&logoColor=black)
 
-**Database**
+**Databases & Cloud**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-880000?logo=mongoose&logoColor=white)
-
-**Cloud / Deployment**
-
 ![Azure](https://img.shields.io/badge/azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/cloudinary-3448C5?logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/render-46E3B7?logo=render&logoColor=black)
@@ -70,11 +63,8 @@ Actively expanding my knowledge about **AI-assisted development, agentic coding,
 ![Vite](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
 ![HTTPie](https://img.shields.io/badge/httpie-73DC8C?logo=httpie&logoColor=black)
-
-**Other**
-
-![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?logo=tensorflow&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-B4CA65?logo=ejs&logoColor=black)
+![JWT](https://img.shields.io/badge/jwt-000000?logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-3E67B1?logo=zod&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white)
 
 ---
