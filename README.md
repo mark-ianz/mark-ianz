@@ -8,13 +8,6 @@ Actively expanding my knowledge about **agentic coding, system design and archit
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
-### Find me here
-
-[![Email](https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white)](mailto:bustillomarkian23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-ian-bustillo)
-[![Facebook](https://img.shields.io/badge/facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/ih.yvnn)
-[![Monkeytype](https://img.shields.io/badge/monkeytype-333333?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/markian)
-
 ---
 
 ### Stuff I use
