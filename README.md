@@ -6,7 +6,7 @@ Most of my work is around **TypeScript, Node.js, Next.js, RESTful APIs, and Data
 
 Actively expanding my knowledge about **agentic coding, system design and architecture, and building better backend systems.**
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222222&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 
 ---
 
