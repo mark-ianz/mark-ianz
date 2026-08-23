@@ -23,14 +23,14 @@ Actively expanding my knowledge about **agentic coding, system design and archit
 
 **Frameworks & Libraries**
 
+![Node.js](https://img.shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/react_router-CA4245?logo=reactrouter&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack_query-FF4154?logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/socket.io-010101?logo=socketdotio&logoColor=white)
 ![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?logo=tensorflow&logoColor=white)
 ![EJS](https://img.shields.io/badge/ejs-B4CA65?logo=ejs&logoColor=black)
