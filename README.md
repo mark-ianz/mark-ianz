@@ -65,7 +65,22 @@ Actively expanding my knowledge about **agentic coding, system design and archit
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mark-ianz&theme=highcontrast&hide_border=false&border_radius=4.5&mode=daily&exclude_days=&disable_animations=false&card_width=1000&card_height=195&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" width="100%"/>
+  <img
+    src="https://trophy.ryglcloud.net/?username=mark-ianz&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
+    alt="mark-ianz's GitHub Trophies"
+  />
 </p>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mark-ianz&theme=dark&border=true&cache_seconds=86400&card_width=900"
+    alt="mark-ianz's GitHub Streak"
+    width="100%"
+  />
+
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mark-ianz&theme=dark&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-ianz&theme=dark" alt="Most Commit Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-ianz&theme=dark" alt="Repos per Language" />
+</div>
 
 ---
