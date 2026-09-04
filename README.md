@@ -66,14 +66,14 @@ Actively expanding my knowledge about **agentic coding, system design and archit
 
 <p align="center">
   <img
-    src="https://trophy.ryglcloud.net/?username=mark-ianz&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
+    src="https://trophy.ryglcloud.net/?username=mark-ianz&no-frame=true&theme=onestar&no-bg=true&margin-w=4&cache_seconds=86400"
     alt="mark-ianz's GitHub Trophies"
   />
 </p>
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=mark-ianz&theme=dark&border=true&cache_seconds=86400&card_width=850"
+    src="https://streak-stats.demolab.com/?user=mark-ianz&no-frame=true&theme=dark&border=true&cache_seconds=86400&card_width=850"
     alt="mark-ianz's GitHub Streak"
     width="100%"
   />
@@ -81,20 +81,23 @@ Actively expanding my knowledge about **agentic coding, system design and archit
   <br />
 
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mark-ianz&theme=dark&langs_count=8&layout=compact&border_radius=10"
-    alt="Top Languages"
-    width="32%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-ianz&theme=dark"
-    alt="Top Languages by Commit"
-    width="32%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-ianz&theme=dark"
-    alt="Top Languages by Repo"
-    width="32%"
-  />
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mark-ianz&theme=dark&langs_count=8&layout=compact&hide_border=true&"
+  alt="Top Languages"
+  width="33.33%"
+  height="205"
+/><!--
+--><img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-ianz&theme=dark"
+  alt="Top Languages by Commit"
+  width="33.33%"
+  height="195"
+/><!--
+--><img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-ianz&theme=dark"
+  alt="Top Languages by Repo"
+  width="33.33%"
+  height="195"
+/>
 </div>
 
 ---
