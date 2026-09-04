@@ -73,14 +73,28 @@ Actively expanding my knowledge about **agentic coding, system design and archit
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=mark-ianz&theme=dark&border=true&cache_seconds=86400&card_width=900"
+    src="https://streak-stats.demolab.com/?user=mark-ianz&theme=dark&border=true&cache_seconds=86400&card_width=850"
     alt="mark-ianz's GitHub Streak"
     width="100%"
   />
 
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mark-ianz&theme=dark&langs_count=8&layout=compact&border_radius=10" alt="Top Languages" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-ianz&theme=dark" alt="Most Commit Language" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-ianz&theme=dark" alt="Repos per Language" />
+  <br />
+
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mark-ianz&theme=dark&langs_count=8&layout=compact&border_radius=10"
+    alt="Top Languages"
+    width="32%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-ianz&theme=dark"
+    alt="Top Languages by Commit"
+    width="32%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-ianz&theme=dark"
+    alt="Top Languages by Repo"
+    width="32%"
+  />
 </div>
 
 ---
