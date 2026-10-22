@@ -1,10 +1,15 @@
-# Hey, I'm Mark Ian !
+# Hey, I'm Mark Ian!
 
-I'm a 4th-year IT student from Quezon City University, and I like building full-stack web applications.
+I'm a 4th-year IT student at Quezon City University who likes building things for the web and figuring out what goes on behind the scenes.
 
-Most of my work is around **TypeScript, Node.js, Next.js, RESTful APIs, and Databases**.
+Started out with **full-stack development**, but lately I've been more interested in how things work at a larger scale, particularly **system design, software architecture, and cloud infrastructure**.
 
-Actively expanding my knowledge about **agentic coding, system design and architecture, and building better backend systems.**
+I've also been getting into **AI agents and automation**, especially the idea of building systems that can figure things out, use tools, and get things done on their own.
+
+Still learning, still building.
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222222&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222222&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
