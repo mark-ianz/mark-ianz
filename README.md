@@ -11,9 +11,6 @@ Still learning, still building.
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222222&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222222&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30117)](https://codetime.dev)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-333438?logo=monkeytype)](https://monkeytype.com/profile/markian)
-
 ---
 
 ### Stuff I use
