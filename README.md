@@ -30,13 +30,11 @@ Still learning, still building.
 ![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/react_router-CA4245?logo=reactrouter&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack_query-FF4154?logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/socket.io-010101?logo=socketdotio&logoColor=white)
 ![TensorFlow.js](https://img.shields.io/badge/tensorflow.js-FF6F00?logo=tensorflow&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-B4CA65?logo=ejs&logoColor=black)
 
 **Databases & Cloud**
 
@@ -51,17 +49,26 @@ Still learning, still building.
 ![Netlify](https://img.shields.io/badge/netlify-000000?logo=netlify&logoColor=00C7B7)
 ![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
 
-**Tools**
+**Development Tools**
 
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-2EAD33?logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white)
 ![HTTPie](https://img.shields.io/badge/httpie-73DC8C?logo=httpie&logoColor=black)
-![JWT](https://img.shields.io/badge/jwt-000000?logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-3E67B1?logo=zod&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white)
+
+**AI & Automation**
+
+![MCP](https://img.shields.io/badge/MCP-222222)
+![AI Agents](https://img.shields.io/badge/AI_Agents-333333)
+![Jev](https://img.shields.io/badge/Jev-444444)
+![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-555555)
+
+<sub>Also familiar with subagents, multi-agent workflows, loop engineering, and tool integrations.</sub>
 
 ---
 
@@ -84,23 +91,23 @@ Still learning, still building.
   <br />
 
   <img
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mark-ianz&theme=dark&langs_count=8&layout=compact&hide_border=true&"
-  alt="Top Languages"
-  width="33.33%"
-  height="205"
-/><!--
---><img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-ianz&theme=dark"
-  alt="Top Languages by Commit"
-  width="33.33%"
-  height="195"
-/><!--
---><img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-ianz&theme=dark"
-  alt="Top Languages by Repo"
-  width="33.33%"
-  height="195"
-/>
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mark-ianz&theme=dark&langs_count=8&layout=compact&hide_border=true"
+    alt="Top Languages"
+    width="33.33%"
+    height="205"
+  /><!--
+  --><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark-ianz&theme=dark"
+    alt="Top Languages by Commit"
+    width="33.33%"
+    height="195"
+  /><!--
+  --><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark-ianz&theme=dark"
+    alt="Top Languages by Repo"
+    width="33.33%"
+    height="195"
+  />
 </div>
 
 ---
